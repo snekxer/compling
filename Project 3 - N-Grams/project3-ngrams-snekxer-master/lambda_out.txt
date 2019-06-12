@@ -1,0 +1,5 @@
+lambda 1 (unigram weight): 0.1	lambda 2 (bigram weight): 0.1	lambda 3 (trigram weight): 0.8		perplexity: 11172.696589212366
+lambda 1 (unigram weight): 0.2	lambda 2 (bigram weight): 0.5	lambda 3 (trigram weight): 0.3		perplexity: 4666.360905669507
+lambda 1 (unigram weight): 0.2	lambda 2 (bigram weight): 0.7	lambda 3 (trigram weight): 0.1		perplexity: 4703.710027246613
+lambda 1 (unigram weight): 0.2	lambda 2 (bigram weight): 0.8	lambda 3 (trigram weight): 0		perplexity: 5534.776249931381
+lambda 1 (unigram weight): 1	lambda 2 (bigram weight): 0	lambda 3 (trigram weight): 0		perplexity: 24868.747487294666

@@ -1,0 +1,20 @@
+Sentences generated from unigrams: 
+<s> ! </s> 
+<s> , , i , any , . </s> 
+<s> and in , , , and , in , was t , , , , , , me , , , and </s> 
+<s> of </s> 
+<s> . </s> 
+
+Sentences generated from bigrams: 
+<s> he was , ’ t know , and , and i ’ s the door , and took her , ’ t know , and i am sure of the same , ’ exclaimed the other . </s> 
+<s> mr. snodgrass . </s> 
+<s> ‘ miss , that he was so much for a new and when mr. winkle , and of his head , and the hand , and i wonder when i have been a little dorrit , i had been a little dorrit , ’ said the table in my dear , and how she had not . </s> 
+<s> ‘ i should have got out that he was a very happy to be , ‘ just as i have been so much , ’ t be , ’ t you know , and i had been born , and she had been doing . </s> 
+<s> it ’ s daughter , ‘ i have been more . </s> 
+
+Sentences generated from trigrams: 
+<s> —out what ‘ the ’ be “ after “ after “ ’ —would have you—you ll you ? </s> 
+<s> —out what youthful ; youths offered two s ” the zenith and ” the zenith and ” the zenith and ” the zenith and ” the ’ ‘ —with wrong ‘ the zenith and ” the zenith and ” the zenith and ” the “ ’ —would have you—you ll write. ‘ —with wrong ‘ the zenith and ” the zig-zag about “ ’ —would have you—you ll write. when ’ ‘ —with wrong ‘ the zenith and ” the ’ ‘ —with wrong ‘ the zenith and ” the ’ ‘ —with wrong ‘ the ’ ‘ —with wrong ‘ the zig-zag about ’ be “ after “ after “ after “ after “ after “ after “ after “ after “ after “ ’ —would have you—you ll write. ‘ —with wrong ‘ the zig-zag about ’ be “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ ’ —would have “ ’ —would have you—you ll you ? </s> 
+<s> —out what youthful ; youths offered two s ” the zenith and ” the zig-zag about ’ be “ after “ after “ after “ after “ after “ after “ after “ after “ after “ ’ —would have “ after “ after “ after “ after “ ’ —would have “ after “ after “ after “ after “ ’ —would have you—you ll write. ‘ —with wrong ‘ the ’ ‘ —with wrong ‘ the zenith and ” the zenith and ” the zenith and ” the zenith and ” the ’ be “ after “ after “ after “ after “ after “ after “ ’ ” the zenith and ” the zenith and ” the zenith and ” the ’ be “ after “ after “ after “ after “ after “ after “ after “ after “ ’ —would have “ after “ after “ after “ after “ after “ after “ after “ after “ ’ —would have you—you ll write. ‘ —with wrong ‘ the zenith and ” the zig-zag about “ ’ ” the ’ ‘ —with wrong ‘ the zenith and ” the zig-zag about “ after “ after “ ’ —would have you—you ll you ? </s> 
+<s> —out what ‘ the ’ ‘ —with wrong ‘ the ’ ‘ —with wrong ‘ your yorkshire cold ’ be yourself. ‘ —with wrong ‘ the ’ be “ after “ after “ ’ ” the zenith and ” the ’ ‘ —with wrong ‘ the zig-zag about ’ be yourself. “ “ after “ ’ —would have “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ ’ ” the zenith and ” the zenith and ” the ’ ‘ ’ ‘ —with wrong ‘ the ’ ‘ —with wrong ‘ the ’ ‘ ‘ your ‘ the ’ ‘ —with wrong ‘ the zenith and ” the ’ ‘ —with wrong ‘ the zenith and ” the ’ be “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ after “ ’ ” the zig-zag about ’ be “ ’ —would have you—you ll you ? </s> 
+<s> —out what youthful ; youths offered up pick-wick unfolded he “ after “ after “ after “ ’ ” the zenith and ” the ’ ‘ —with wrong ‘ the “ ’ —would have you—you ll you ? </s> 
